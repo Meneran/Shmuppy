@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <enemyList>
+    <LevelEnemy>
+      <spawnHeight>-3.57634258</spawnHeight>
+      <spawnTime>0</spawnTime>
+    </LevelEnemy>
+    <LevelEnemy>
+      <spawnHeight>1.58244884</spawnHeight>
+      <spawnTime>2</spawnTime>
+    </LevelEnemy>
+    <LevelEnemy>
+      <spawnHeight>2.36749554</spawnHeight>
+      <spawnTime>4</spawnTime>
+    </LevelEnemy>
+    <LevelEnemy>
+      <spawnHeight>1.78255546</spawnHeight>
+      <spawnTime>6</spawnTime>
+    </LevelEnemy>
+    <LevelEnemy>
+      <spawnHeight>0.317251682</spawnHeight>
+      <spawnTime>8</spawnTime>
+    </LevelEnemy>
+    <LevelEnemy>
+      <spawnHeight>-2.11345959</spawnHeight>
+      <spawnTime>10</spawnTime>
+    </LevelEnemy>
+    <LevelEnemy>
+      <spawnHeight>2.2933073</spawnHeight>
+      <spawnTime>12</spawnTime>
+    </LevelEnemy>
+    <LevelEnemy>
+      <spawnHeight>-2.46868515</spawnHeight>
+      <spawnTime>14</spawnTime>
+    </LevelEnemy>
+    <LevelEnemy>
+      <spawnHeight>-1.65651941</spawnHeight>
+      <spawnTime>16</spawnTime>
+    </LevelEnemy>
+    <LevelEnemy>
+      <spawnHeight>3.28581715</spawnHeight>
+      <spawnTime>18</spawnTime>
+    </LevelEnemy>
+  </enemyList>
+  <levelName>Default</levelName>
+</Level>
